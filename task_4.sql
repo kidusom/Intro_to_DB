@@ -10,4 +10,4 @@ FROM
 WHERE 
     TABLE_SCHEMA = 'alx_book_store' 
     AND TABLE_NAME = 'Books';
- 
+ USE alx_book_store;
