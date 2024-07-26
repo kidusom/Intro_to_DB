@@ -1,5 +1,5 @@
-CREATE DATABASE ALX_BOOK_STORE; 
-USE ALX_BOOK_STORE;
+CREATE DATABASE alx_book_store; 
+USE alx_book_store;
  
 CREATE TABLE Authors (
     author_id INT AUTO_INCREMENT PRIMARY KEY,
