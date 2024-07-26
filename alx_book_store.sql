@@ -1,7 +1,5 @@
--- Create the database
 CREATE DATABASE alx_book_store;
-
--- Use the database
+ 
 USE alx_book_store;
 
 -- Create the Authors table
